@@ -1,26 +1,38 @@
 [
   {
     "id": 1,
-    "name": "Book",
-    "price": 10.99,
-    "imgUrl": "/imgs/book.jpg"
+    "name": "A Feast for Crows",
+    "price": 90,
+    "imgUrl": "/imgs/Crows.jpg"
   },
   {
     "id": 2,
-    "name": "Computer",
-    "price": 1199,
-    "imgUrl": "/imgs/computer.jpg"
+    "name": "Lock Every Door",
+    "price": 110,
+    "imgUrl": "/imgs/doors.jpg"
   },
   {
     "id": 3,
-    "name": "Banana",
-    "price": 1.05,
-    "imgUrl": "/imgs/banana.jpg"
+    "name": "A Dance with Dragons",
+    "price": 140,
+    "imgUrl": "/imgs/Dragons.jpg"
   },
   {
     "id": 4,
-    "name": "Car",
-    "price": 14000,
-    "imgUrl": "/imgs/car.jpg"
+    "name": "Fire and Blood",
+    "price": 125.45,
+    "imgUrl": "/imgs/fire.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Clash of Kings",
+    "price": 115.55,
+    "imgUrl": "/imgs/kings.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Storm of Swords",
+    "price": 150,
+    "imgUrl": "/imgs/Swords.jpg"
   }
 ]
